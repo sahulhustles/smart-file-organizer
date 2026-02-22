@@ -29,8 +29,10 @@ A professional desktop utility built with Python that automatically organizes fi
 
 ## 📸 Screenshots
 
-### Files Before and After Organizing
+### Files Before Organizing
 ![Unorganized_Files](Screenshots/unorganized_files.png)
+
+### Files After Organizing
 ![After_Organizing](Screenshots/after_organizing.png)
 
 ### How to Use it ?
