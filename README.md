@@ -29,17 +29,14 @@ A professional desktop utility built with Python that automatically organizes fi
 
 ## 📸 Screenshots
 
-### Splash Screen
+### Files Before and After Organizing
 ![Unorganized_Files](Screenshots/unorganized_files.png)
 ![After_Organizing](Screenshots/after_organizing.png)
 
-### Progress Window
+### How to Use it ?
 ![Tutorial](Screenshots/tutorial.mp4)
 ---
 
 ## 🚀 How To Run
 
-### Option 1: Run Python Script
-
-```bash
-python main.py
+### Option 1: go to dist/ folder and run the SmartFileOrganizer.exe file
