@@ -30,12 +30,11 @@ A professional desktop utility built with Python that automatically organizes fi
 ## 📸 Screenshots
 
 ### Splash Screen
-![Unorganized_Files](Screenshots/unorganized.png)
+![Unorganized_Files](Screenshots/unorganized_files.png)
 ![After_Organizing](Screenshots/after_organizing.png)
 
 ### Progress Window
 ![Tutorial](Screenshots/tutorial.mp4)
-
 ---
 
 ## 🚀 How To Run
